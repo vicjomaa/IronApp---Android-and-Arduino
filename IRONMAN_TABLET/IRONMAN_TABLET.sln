@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRONMAN_TABLET", "IRONMAN_TABLET.csproj", "{9194C20D-B20A-4D3E-A2B8-A5AAE8A5E94F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRONMAN_TABLET.Editor", "IRONMAN_TABLET.Editor.csproj", "{55BBAD13-02FC-D179-4352-E8E751C7AB7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9194C20D-B20A-4D3E-A2B8-A5AAE8A5E94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9194C20D-B20A-4D3E-A2B8-A5AAE8A5E94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9194C20D-B20A-4D3E-A2B8-A5AAE8A5E94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9194C20D-B20A-4D3E-A2B8-A5AAE8A5E94F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55BBAD13-02FC-D179-4352-E8E751C7AB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BBAD13-02FC-D179-4352-E8E751C7AB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BBAD13-02FC-D179-4352-E8E751C7AB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BBAD13-02FC-D179-4352-E8E751C7AB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
