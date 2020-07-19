@@ -1,4 +1,4 @@
-# IronApp-Android serial communicatio with Arduino
+# IronApp-Android serial communication with Arduino
 
 This app is designed to inspired kids to find solutions to their principal local problems through electronics and coding. The missions take IronMan as a central character, whose armor suddenly suffers a failure; in this sense, kids must solve the hero pending tasks, helping him in the process to repair some shield components with physical computing.  The tool has an interface to read three different Arduino sensors essential to solving local concerns related to human health, crops wellness, and food safety.
 
